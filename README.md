@@ -1,5 +1,6 @@
 # Contest-DL-2025-jay-and-cui
- These are codes submitted for DL-Fall-25 Kaggle Contest. The team name is "jay and cui" and consists of members Xiangyu Cui and Yinjie (Jay) Luo.
+
+These codes are submitted for the DL-Fall-25 Kaggle Contest. Our team name is "jay and cui", consisting of two members, Xiangyu Cui and Yinjie (Jay) Luo.
 
 We provide two training methods to improve the model performance, namely conventional refining training and masked training.
 
