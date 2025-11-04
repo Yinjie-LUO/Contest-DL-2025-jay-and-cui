@@ -3,6 +3,11 @@
 These codes are submitted for the DL-Fall-25 Kaggle Contest. Our team name is "jay and cui", consisting of two members, Xiangyu Cui and Yinjie (Jay) Luo.
 
 
+### Introduction
+
+This report presents our approach to the Math Question Answer Verification Competition, where we supervised fine-tuning a Llama-3 8B model to predict the correctness of mathematical answers. We detail our methodology, including data preprocessing, LoRA-based parameter-efficient fine-tuning, prompt engineering strategies, and extensive hyperparameter optimization. Our experiments demonstrate that by systematically tuning LoRA rank, learning rate schedule, and effective batch size, we achieved a much more stable fine-tuning process and a consistent reduction of training loss from around 1.54 to approximately 0.41, which significantly improved convergence and overall reasoning accuracy compared with the initial baseline, achieving a final test accuracy of 85.7%.
+
+
 ### Methods
 We provide two training methods to improve the model performance, namely conventional refining training and masked training.
 
@@ -45,3 +50,8 @@ In the masked training, we trained on the 0-200k samples during Round 1 and the 
 
 <img width="865" height="649" alt="image" src="https://github.com/user-attachments/assets/d7bf6eaa-f951-4b47-8fb3-e5d0b5d7bd82" />
 
+
+
+### Acknowledgments
+
+Xiangyu Cui was responsible for model development and drafting the initial manuscript. Yinjie (Jay) Luo was responsible for model training and revising the manuscript.
