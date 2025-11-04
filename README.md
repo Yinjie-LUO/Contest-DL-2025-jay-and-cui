@@ -37,3 +37,11 @@ In the masked training, we trained on the 0-200k samples during Round 1 and the 
 - The trained unmasked model can be downloaded from [here](https://drive.google.com/drive/folders/1vOwyg9pJbJYFNL8_h47lgLs__eP4n1Kk?usp=sharing).
 
 - The trained masked model can be downloaded from [here](https://drive.google.com/drive/folders/1u4A1Uq5IK7nDpQirZTc3sbTTniqqC48L?usp=sharing).
+
+
+### Results
+
+<img width="865" height="649" alt="image" src="https://github.com/user-attachments/assets/c4ecdafa-82fb-4faf-9cab-e78833c40b24" />
+
+<img width="865" height="649" alt="image" src="https://github.com/user-attachments/assets/d7bf6eaa-f951-4b47-8fb3-e5d0b5d7bd82" />
+
