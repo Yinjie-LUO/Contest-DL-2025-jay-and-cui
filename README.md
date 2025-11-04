@@ -23,6 +23,14 @@ In the masked training, we trained on the 0-200k samples during Round 1 and the 
 
 - Accuracy_Test.ipynb : used to test the prediction performance of a trained model and generate the "submission.csv" file.
 
+- unmasked_train_loss.txt : training losses of the unmasked model over epochs.
+
+- masked_train_loss.txt : training losses of the masked model over epochs.
+
+- unmasked_val_acc.txt : validation accuracies of the unmasked model over epochs.
+
+- masked_val_acc.txt : validation accuracies of the masked model over epochs.
+
 
 ### Trained Models
 
