@@ -22,3 +22,10 @@ In the masked training, we trained on the 0-200k samples during Round 1 and the 
 - Refined_Training_Masked_Round2_200k_400k.ipynb : masked training for the 200k-400k samples, which should be run after "Refined_Training_Masked_Round1_0_200k.ipynb".
 
 - Accuracy_Test.ipynb : used to test the prediction performance of a trained model and generate the "submission.csv" file.
+
+
+### Trained Models
+
+- The trained unmasked model can be downloaded from [here](https://drive.google.com/drive/folders/1vOwyg9pJbJYFNL8_h47lgLs__eP4n1Kk?usp=sharing).
+
+- The trained masked model can be downloaded from [here](https://drive.google.com/drive/folders/1u4A1Uq5IK7nDpQirZTc3sbTTniqqC48L?usp=sharing).
